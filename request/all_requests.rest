@@ -1,0 +1,4 @@
+GET https://backend-render-n1kg.onrender.com/api/persons
+
+###
+DELETE https://backend-render-n1kg.onrender.com/api/persons/2
